@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Akindudu
-- 👀 I’m interested in software and app development. Like I'm still newbie
-- 🌱 I’m currently learning and I wish I become a pro one day.
+- 👀 I’m interested in hardware, and IoT development. Like I'm still newbie
+- 🌱 I’m currently learning C++ and I wish I become a pro one day.
 - 💞️ I’m looking to collaborate on ... projects so I can get better up.
-      I wanna work on an app and software (lifestyle), it wakes one up(alarm), serve as one's companion. And all offline.
 - 📫 How to reach me, adedejimuhammad02@gmail.com.
 
 <!---
